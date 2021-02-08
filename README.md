@@ -21,6 +21,12 @@ That's all, run the tool, and it automatically starts and ready for your command
 | -------------------------------------------------------- |:----------------:| --------:|
 | Basic command like feature                               | `in progress`    |          |
 | Reading user definedCharacter sheet                      | `in progress`    |          |
+| Action roll                                              | `not started`    |          |
+| Action roll with stat and adds                           |                  |          |
+| Action roll with character sheet support                 |                  |          |
+| Reading Moves                                            |                  |          |
+| Updating real time character sheet                       |                  |          |
+| ....more to add...                                       |                  |          |
 |                                                          |                  |          |
 
 # Credits
