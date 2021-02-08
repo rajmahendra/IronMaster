@@ -33,4 +33,6 @@ That's all, run the tool, and it automatically starts and ready for your command
 
 # Credits
 * This work is based on Ironsworn (found at [Ironsworn](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
-* Oracle is borrowed from [Discordsworn](https://github.com/ribbanya/discordsworn)
+* Data Acknowledgement
+** [Discordsworn](https://github.com/ribbanya/discordsworn)
+** [rsek/datasworn](https://github.com/rsek/datasworn)
