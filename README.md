@@ -1,5 +1,5 @@
 # IronMaster
-A small command-line tool written using Kotlin to player run a solo [IronswornRPG](http://www.ironswornrpg.com) game.
+A small command-line tool written using Kotlin to player run a solo [Ironsworn RPG](http://www.ironswornrpg.com) game.
 
 This tool is not to replace your all-time favourite way fo playing; table-top pen-paper dice style. If you have all the setup to play, feel free to ignore this tool and continue with your real-time system. This tool is for the beginners who do not have to spend time on setup or try the game with minimum arrangements and configurations. We also plan to make it easy to guide. But its for the long run. Currently goal fo this game is to minimize the setup and fast way to handle the system. 
 
@@ -32,5 +32,5 @@ That's all, run the tool, and it automatically starts and ready for your command
 |                                                          |                  |          |
 
 # Credits
-* This work is based on Ironsworn (found at [IronswornRPG](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
-* Oracle is borrowed from [DiscordSworn](https://github.com/ribbanya/discordsworn)
+* This work is based on Ironsworn (found at [Ironsworn](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
+* Oracle is borrowed from [Discordsworn](https://github.com/ribbanya/discordsworn)
