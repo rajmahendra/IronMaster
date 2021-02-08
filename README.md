@@ -3,6 +3,8 @@ A small command-line tool written using Kotlin to player run a solo [IronswornRP
 
 This tool is not to replace your all-time favourite way fo playing; table-top pen-paper dice style. If you have all the setup to play, feel free to ignore this tool and continue with your real-time system. This tool is for the beginners who do not have to spend time on setup or try the game with minimum arrangements and configurations. We also plan to make it easy to guide. But its for the long run. Currently goal fo this game is to minimize the setup and fast way to handle the system. 
 
+This tool is a command-line tool. You have to open in your command prompt/terminal, and you will be in a shell. Just by typing, you interact with the tool. 
+
 # NOTE
 Currently, this tool is in development state. You can see the status on this page.
 
