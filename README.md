@@ -7,7 +7,6 @@ This is not to replace your all time favourite table-top pen-paper dice style. I
 Currently this tool is in development state. you can see the status in this page.
 
 # Prerequesit
-
 * Java Runtime 1.8
 
 # Getting Started
@@ -25,5 +24,5 @@ Thats all, run the tool and it automatically starts and ready for your commands
 |                                                          |                  |          |
 
 # Credits
-* This work is based on Ironsworn (found at www.ironswornrpg.com), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
-* Oracle is borrowed from DiscordSworn
+* This work is based on Ironsworn (found at [IronswornRPG](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).
+* Oracle is borrowed from [DiscordSworn](https://github.com/ribbanya/discordsworn)
