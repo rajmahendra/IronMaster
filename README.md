@@ -1,20 +1,20 @@
 # IronMaster
-A small command line tool writting using Kotling to player run a solo IronSworn PRG tame
+A small command-line tool written using Kotlin to player run a solo [IronswornRPG](http://www.ironswornrpg.com) game.
 
-This is not to replace your all time favourite table-top pen-paper dice style. If you are new and/or do not have necessary items like dice, pen,paper, rulebook etc, or you are new to the RPG and like to try Ironsworn faster then this tool is for you
+This tool is not to replace your all-time favourite way fo playing; table-top pen-paper dice style. If you have all the setup to play, feel free to ignore this tool and continue with your real-time system. This tool is for the beginners who do not have to spend time on setup or try the game with minimum arrangements and configurations. We also plan to make it easy to guide. But its for the long run. Currently goal fo this game is to minimize the setup and fast way to handle the system. 
 
 # NOTE
-Currently this tool is in development state. you can see the status in this page.
+Currently, this tool is in development state. You can see the status on this page.
 
 # Prerequesit
 * Java Runtime 1.8
 
 # Getting Started
-* Make sure you install the above prerequesit. 
+* Make sure you install the above prerequisites. 
 * Create your Character (This tool requires)
 * Create your Assets (This tool requires)
 * Create your world in mind or paper 
-Thats all, run the tool and it automatically starts and ready for your commands
+That's all, run the tool, and it automatically starts and ready for your commands.
 
 # Features Added
 | Features                                                 | Status           | Remarks  |
