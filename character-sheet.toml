@@ -1,0 +1,30 @@
+name= "His Name"
+experience= 0
+bonds= 0
+
+[momentum]
+value= 0
+max= 0
+reset= 0
+
+[stats]
+edge= 0
+heart= 0
+iron= 0
+shadow= 0
+wits= 0
+
+[status]
+health= 5
+spirit= 5
+supply= 5
+
+[debilities]
+conditions= 0
+banes= 0
+burdens= 0
+
+[[vows]]
+title= ""
+type= 0
+value= 0
