@@ -1,6 +1,7 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
+    java
     kotlin("jvm") version "1.4.30"
     application
 }
@@ -18,6 +19,12 @@ dependencies {
     testImplementation(kotlin("test-junit"))
 }
 
+
+configure<JavaPluginConvention> {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
 tasks.test {
     useJUnit()
 }
@@ -27,6 +34,7 @@ tasks.withType<KotlinCompile>() {
 }
 
 application {
-  //  mainClass.set("ironmaster.MainKt")
-    mainClass.set("cli.Run")
+    mainClass.set("ironmaster.MainKt")
+
 }
+
