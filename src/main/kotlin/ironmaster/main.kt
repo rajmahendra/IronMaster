@@ -19,7 +19,7 @@ fun main() {
 
     val buffReader = BufferedReader(InputStreamReader(System.`in`))
     val console = System.console()
-
+    SplashScreen.displaySplash()
 do {
 
     print("IronMaster >")

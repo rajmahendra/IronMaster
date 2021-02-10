@@ -5,6 +5,9 @@ A small command-line tool written using Kotlin to player run a solo [Ironsworn R
 
 This tool is a command-line tool. You have to open in your command prompt/terminal, and you will be in a shell. Just by typing, you interact with the tool. 
 
+# Preview
+![IronMaster Preview](docs/splashscreen.png)
+
 # Recomended
 * This tool is not to replace your all-time favourite way fo playing; table-top pen-paper dice style. If you have all the setup to play, feel free to ignore this tool and continue with your real-time system.
 * If you want to narrate your journey while playing, you can use your pen-paper or tools like [RoleScape.io](https://rolescape.io)
