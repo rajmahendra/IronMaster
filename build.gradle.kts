@@ -14,6 +14,7 @@ repositories {
 }
 
 dependencies {
+    implementation("com.github.tomas-langer:chalk:1.0.2")
     implementation ("com.google.code.gson:gson:2.8.6")
     implementation ("org.tomlj:tomlj:1.0.0")
     testImplementation(kotlin("test-junit"))
